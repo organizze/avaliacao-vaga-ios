@@ -10,7 +10,7 @@ Nosso aplicativo é feito em [RubyMotion](http://www.rubymotion.com/) que é a t
 
 Primeiro você deve fazer o download da versão Starter do RM [http://www.rubymotion.com/download/].
 
-Instalar a rodar o RubyMotion é trivial para quem trabalha com um Mac.
+Instalar e rodar o RubyMotion é trivial para quem trabalha com um Mac.
 
 Você irá construir uma aplicação em RubyMotion que irá consumir a [api do Organizze](https://github.com/organizze/api-doc).
 
