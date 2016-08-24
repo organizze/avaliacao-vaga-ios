@@ -30,6 +30,8 @@ A aplicação tem os seguintes requisitos:
 
 6 - O Design da Interface nao faz parte do escopo da avaliação. Mas qualquer capricho a mais, sim. Minha sugestão é que você se preocupe com acabamendo da UI apenas se estiver resolvido os problemas fundamentais antes.
 
+7 - Escrever testes em RubyMotion não está no escopo da avaliação, mas estará no seu dia a dia de trabalho. Não se preocupe com isso agora.
+
 
 ### Submissão da aplicação
 
