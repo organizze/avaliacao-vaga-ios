@@ -3,7 +3,7 @@
 
 O [Organizze](www.organizze.com.br), a solução de controle financeiro, está selecionando um Lead Developer iOS para assumir a frente do nosso querido aplicativo iOS :heart:.
 
-Nosso aplicativo é feito em [RubyMotion](http://www.rubymotion.com/) que é a tecnologia base do nosso teste.
+Nosso aplicativo é feito em [RubyMotion](http://www.rubymotion.com/) que é a tecnologia base do nosso teste. 
 
 
 ### O Teste
@@ -13,6 +13,8 @@ Primeiro você deve fazer o download da versão Starter do RM [http://www.rubymo
 Instalar a rodar o RubyMotion é trivial para quem trabalha com um Mac.
 
 Você irá construir uma aplicação em RubyMotion que irá consumir a [api do Organizze](https://github.com/organizze/api-doc).
+
+Somente a parte iOS do RubyMotion nos interessa. Não se preocupe com Android e OSX. Apenas nosso app iOS utiliza o RM.
 
 A aplicação tem os seguintes requisitos:
 
