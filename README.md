@@ -32,7 +32,7 @@ A aplicação tem os seguintes requisitos:
 
 7 - Escrever testes em RubyMotion não está no escopo da avaliação, mas estará no seu dia a dia de trabalho. Não se preocupe com isso agora.
 
-8 - Não iremos avaliar Memory Leaks. Para sua informação, Memory Leaks só irão ocorrer se você fizer strong cyclic-references. Por padrão todas referencias de variáveis de instância são Strong. WekRef class do RubyMotion existe para forçar uma referencia Weak e evitar os leaks.
+8 - Não iremos avaliar Memory Leaks. Para sua informação, Memory Leaks só irão ocorrer se você fizer strong cyclic-references. Por padrão todas referencias de variáveis de instância são Strong. ```WekRef``` class do RubyMotion existe para forçar uma referencia Weak e evitar os leaks.
 
 
 ### Submissão da aplicação
