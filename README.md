@@ -1,7 +1,7 @@
-# Teste de avaliação Vaga iOS - [Organizze](www.organizze.com.br)
+# Teste de avaliação Vaga iOS - [Organizze](https://www.organizze.com.br)
 --- 
 
-O [Organizze](www.organizze.com.br), a solução de controle financeiro, está selecionando um Lead Developer iOS para assumir a frente do nosso querido aplicativo iOS :heart:.
+O [Organizze](https://www.organizze.com.br), a solução de controle financeiro, está selecionando um Lead Developer iOS para assumir a frente do nosso querido aplicativo iOS :heart:.
 
 Nosso aplicativo é feito em [RubyMotion](http://www.rubymotion.com/) que é a tecnologia base do nosso teste. 
 
